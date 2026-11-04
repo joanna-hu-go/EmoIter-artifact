@@ -1,0 +1,68 @@
+{
+  "schema_version": 2,
+  "package": "EmoIter selected display aggregates",
+  "capability": "selected_frozen_display_values_only",
+  "source_c1_v4_manifest_sha256": "2dafa8fcc4b2cf46359f800e5ca15fc72d1380dd2e07987141ffbf5a9ef329db",
+  "source_shadow_manifest_sha256": "21452c8cdd2f929464ca3897e3e08fc8d12cb1e92d6d736e2bceb3e6433a3669",
+  "source_p1_private_manifest_sha256": "e619ae6cc6a68fcbea40b6bf9ddc2fd3fe129b894a92589dae13da207facceea",
+  "source_f1_seven_file_manifest_sha256": "73176eccc3988b4838b1794c0d57ae5af85bfd806298a931c321707e16180ec4",
+  "object_ids": [
+    "V1",
+    "V2",
+    "V4",
+    "rq1_screens",
+    "measurement",
+    "measurement_classes",
+    "supp_sprint_rank",
+    "supp_two_part"
+  ],
+  "scalar_cells": 320,
+  "license_scopes": {
+    "CC-BY-4.0": [
+      "LICENSES/DATA-CC-BY-4.0.md",
+      "MANIFEST.json",
+      "PAPER_OBJECT_MAP.json",
+      "PROVENANCE.md",
+      "README.md",
+      "data/display_cells.json",
+      "data/field_schema.json"
+    ],
+    "MIT": [
+      "code/verify_display.py"
+    ]
+  },
+  "files": [
+    {
+      "path": "LICENSES/CODE-MIT.txt",
+      "sha256": "c678032ee3df48ec6a76bb1b13e621e13df1ff6358959b46b2e58a5f6246f988"
+    },
+    {
+      "path": "LICENSES/DATA-CC-BY-4.0.md",
+      "sha256": "7ccbb3cc7d2ed6ef19859a7ef750793107017c485f33ce59fb3f93886afabc3f"
+    },
+    {
+      "path": "PAPER_OBJECT_MAP.json",
+      "sha256": "d1691411961841461b410595b029d261591dd2f8764d2c214320b6dc97759137"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "sha256": "3e6a15a1e938f715e8eb3817b396069977523f2a4c7567b68044fb6e6a3ffe4f"
+    },
+    {
+      "path": "README.md",
+      "sha256": "dcc7b8d818d1cf5cc87f3122700990bfcd7b054fb31ff6e0b391ea741c0960d2"
+    },
+    {
+      "path": "code/verify_display.py",
+      "sha256": "2f923a7d05edaf65f2b422bc9e12571d8fc0c7c72805ad3690482bd77564c6e9"
+    },
+    {
+      "path": "data/display_cells.json",
+      "sha256": "6737ea2ce88bacdb514a0b32d6ce1bdcc4b1eb3f76cab077102bbd2e7415198e"
+    },
+    {
+      "path": "data/field_schema.json",
+      "sha256": "cc7503d9a163150bd8f196add4ea9bbf31e67b32a7166dec361c98ca20c5b401"
+    }
+  ]
+}

@@ -1,0 +1,3970 @@
+{
+  "schema_version": 1,
+  "capability": "selected_frozen_display_values_only",
+  "objects": [
+    {
+      "id": "V1",
+      "paper_label": "fig:rq1_versions",
+      "cells": [
+        {
+          "slot": "V1-001",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": -0.1452545748516047
+        },
+        {
+          "slot": "V1-002",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.2250998424646523
+        },
+        {
+          "slot": "V1-003",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": -0.1851772086581285
+        },
+        {
+          "slot": "V1-004",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": -0.02245609846346
+        },
+        {
+          "slot": "V1-005",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.09041792955763951
+        },
+        {
+          "slot": "V1-006",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": -0.056437014010549756
+        },
+        {
+          "slot": "V1-007",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": -0.21759241716457328
+        },
+        {
+          "slot": "V1-008",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.29522842099608276
+        },
+        {
+          "slot": "V1-009",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": -0.256410419080328
+        },
+        {
+          "slot": "V1-010",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": -0.09787883683809051
+        },
+        {
+          "slot": "V1-011",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.16209076584067644
+        },
+        {
+          "slot": "V1-012",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": -0.12998480133938348
+        },
+        {
+          "slot": "V1-013",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": -0.046229697867078964
+        },
+        {
+          "slot": "V1-014",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.09623672297732007
+        },
+        {
+          "slot": "V1-015",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": -0.07123321042219952
+        },
+        {
+          "slot": "V1-016",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": -0.05093774451896291
+        },
+        {
+          "slot": "V1-017",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.09615783013870455
+        },
+        {
+          "slot": "V1-018",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Negative valence",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": -0.07354778732883373
+        },
+        {
+          "slot": "V1-019",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": -0.060031383253955434
+        },
+        {
+          "slot": "V1-020",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.13048912371313023
+        },
+        {
+          "slot": "V1-021",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": -0.09526025348354283
+        },
+        {
+          "slot": "V1-022",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": -0.0274372654226897
+        },
+        {
+          "slot": "V1-023",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.08057297703755771
+        },
+        {
+          "slot": "V1-024",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "2-3",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": -0.05400512123012371
+        },
+        {
+          "slot": "V1-025",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": -0.05161865940227771
+        },
+        {
+          "slot": "V1-026",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.12363296020741042
+        },
+        {
+          "slot": "V1-027",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": -0.08762580980484407
+        },
+        {
+          "slot": "V1-028",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": -0.05282047326085365
+        },
+        {
+          "slot": "V1-029",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.10093970215438972
+        },
+        {
+          "slot": "V1-030",
+          "context": {
+            "earlier_level": "1",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": -0.07688008770762168
+        },
+        {
+          "slot": "V1-031",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": 0.024327632924171894
+        },
+        {
+          "slot": "V1-032",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.009058745566774357
+        },
+        {
+          "slot": "V1-033",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": 0.007634443678698769
+        },
+        {
+          "slot": "V1-034",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": -0.010041445136317178
+        },
+        {
+          "slot": "V1-035",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.03570848781867878
+        },
+        {
+          "slot": "V1-036",
+          "context": {
+            "earlier_level": "2-3",
+            "emotion_metric": "Stress",
+            "later_level": "4+",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "difference_later_minus_earlier",
+          "value": -0.02287496647749798
+        }
+      ]
+    },
+    {
+      "id": "V2",
+      "paper_label": "fig:rq2_corr",
+      "cells": [
+        {
+          "slot": "V2-001",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.10332411672247611
+        },
+        {
+          "slot": "V2-002",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.03296359612890048
+        },
+        {
+          "slot": "V2-003",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.03576365679236667
+        },
+        {
+          "slot": "V2-004",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.08040995240659086
+        },
+        {
+          "slot": "V2-005",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.05173042193715622
+        },
+        {
+          "slot": "V2-006",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.01269557724146603
+        },
+        {
+          "slot": "V2-007",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.13109779170058178
+        },
+        {
+          "slot": "V2-008",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.011871913968977504
+        },
+        {
+          "slot": "V2-009",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.05924074837618213
+        },
+        {
+          "slot": "V2-010",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.09269457093860974
+        },
+        {
+          "slot": "V2-011",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.042476056465154365
+        },
+        {
+          "slot": "V2-012",
+          "context": {
+            "change_feature": "Description",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.024959959689224792
+        },
+        {
+          "slot": "V2-013",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": -0.23584815939062886
+        },
+        {
+          "slot": "V2-014",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.36952129632021274
+        },
+        {
+          "slot": "V2-015",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.30374783976156433
+        },
+        {
+          "slot": "V2-016",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": -0.046354682319444146
+        },
+        {
+          "slot": "V2-017",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.1923030169984154
+        },
+        {
+          "slot": "V2-018",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.11978126673928093
+        },
+        {
+          "slot": "V2-019",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": -0.11120448827461982
+        },
+        {
+          "slot": "V2-020",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.24765470721242097
+        },
+        {
+          "slot": "V2-021",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.18148651714549727
+        },
+        {
+          "slot": "V2-022",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": -0.12346660071043405
+        },
+        {
+          "slot": "V2-023",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.26093050688951414
+        },
+        {
+          "slot": "V2-024",
+          "context": {
+            "change_feature": "Fix version",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.19261829423286694
+        },
+        {
+          "slot": "V2-025",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.1794064256751594
+        },
+        {
+          "slot": "V2-026",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": 0.04398660292928112
+        },
+        {
+          "slot": "V2-027",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.1139611781233756
+        },
+        {
+          "slot": "V2-028",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.11063442797680002
+        },
+        {
+          "slot": "V2-029",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.02045108700133673
+        },
+        {
+          "slot": "V2-030",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.04476926935012156
+        },
+        {
+          "slot": "V2-031",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.1632920878790975
+        },
+        {
+          "slot": "V2-032",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": 0.019678098757420725
+        },
+        {
+          "slot": "V2-033",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.09146065601296359
+        },
+        {
+          "slot": "V2-034",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.10588872191464674
+        },
+        {
+          "slot": "V2-035",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.029308602367721537
+        },
+        {
+          "slot": "V2-036",
+          "context": {
+            "change_feature": "Issue type",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.038239752174855084
+        },
+        {
+          "slot": "V2-037",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.08089235866560882
+        },
+        {
+          "slot": "V2-038",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.061426677947415034
+        },
+        {
+          "slot": "V2-039",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.009354587316612168
+        },
+        {
+          "slot": "V2-040",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": -0.06441975378612017
+        },
+        {
+          "slot": "V2-041",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.20971836070959302
+        },
+        {
+          "slot": "V2-042",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.13759094795265467
+        },
+        {
+          "slot": "V2-043",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.14704921388454503
+        },
+        {
+          "slot": "V2-044",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": 0.004579425008829861
+        },
+        {
+          "slot": "V2-045",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.0759886284113778
+        },
+        {
+          "slot": "V2-046",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.036812541747816514
+        },
+        {
+          "slot": "V2-047",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.09717804780689651
+        },
+        {
+          "slot": "V2-048",
+          "context": {
+            "change_feature": "Iteration assignment",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.030691445844982436
+        },
+        {
+          "slot": "V2-049",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.05910895590217457
+        },
+        {
+          "slot": "V2-050",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.0655300124962245
+        },
+        {
+          "slot": "V2-051",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.001754345049217072
+        },
+        {
+          "slot": "V2-052",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.06837734265113352
+        },
+        {
+          "slot": "V2-053",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.05292942711757256
+        },
+        {
+          "slot": "V2-054",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.008946499567182669
+        },
+        {
+          "slot": "V2-055",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.1714304874798768
+        },
+        {
+          "slot": "V2-056",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": 0.04104664848255756
+        },
+        {
+          "slot": "V2-057",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.10709422590175678
+        },
+        {
+          "slot": "V2-058",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.1442390155690338
+        },
+        {
+          "slot": "V2-059",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": 0.012091284172563091
+        },
+        {
+          "slot": "V2-060",
+          "context": {
+            "change_feature": "Priority",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.07756397245693002
+        },
+        {
+          "slot": "V2-061",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.20008719354848234
+        },
+        {
+          "slot": "V2-062",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": 0.06160226872104358
+        },
+        {
+          "slot": "V2-063",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.1307373474764491
+        },
+        {
+          "slot": "V2-064",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.17497885928642937
+        },
+        {
+          "slot": "V2-065",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": 0.03585590217920316
+        },
+        {
+          "slot": "V2-066",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.10515236856251663
+        },
+        {
+          "slot": "V2-067",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.15400486490455723
+        },
+        {
+          "slot": "V2-068",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": 0.010329766531383266
+        },
+        {
+          "slot": "V2-069",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.08191355288167156
+        },
+        {
+          "slot": "V2-070",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.18791606356677346
+        },
+        {
+          "slot": "V2-071",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": 0.04554986358096978
+        },
+        {
+          "slot": "V2-072",
+          "context": {
+            "change_feature": "Rank",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.11718914449344471
+        },
+        {
+          "slot": "V2-073",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": -0.03789193522591104
+        },
+        {
+          "slot": "V2-074",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.17236195203081014
+        },
+        {
+          "slot": "V2-075",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.10493701745232496
+        },
+        {
+          "slot": "V2-076",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.1295196179274395
+        },
+        {
+          "slot": "V2-077",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.009516074505423246
+        },
+        {
+          "slot": "V2-078",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.0616916470203916
+        },
+        {
+          "slot": "V2-079",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": -0.17589034425471897
+        },
+        {
+          "slot": "V2-080",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.31051443040390114
+        },
+        {
+          "slot": "V2-081",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.24376223546061848
+        },
+        {
+          "slot": "V2-082",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.05092740473155799
+        },
+        {
+          "slot": "V2-083",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.09128975422031166
+        },
+        {
+          "slot": "V2-084",
+          "context": {
+            "change_feature": "Status",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.020629311883307088
+        },
+        {
+          "slot": "V2-085",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.1267432421738722
+        },
+        {
+          "slot": "V2-086",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.011213324395950032
+        },
+        {
+          "slot": "V2-087",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.057607484661800615
+        },
+        {
+          "slot": "V2-088",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.06185489738629912
+        },
+        {
+          "slot": "V2-089",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.07636435511593147
+        },
+        {
+          "slot": "V2-090",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Negative valence",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.007285642859838207
+        },
+        {
+          "slot": "V2-091",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.11237883361653302
+        },
+        {
+          "slot": "V2-092",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.031919537982621524
+        },
+        {
+          "slot": "V2-093",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": 0.0410795592659682
+        },
+        {
+          "slot": "V2-094",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_high",
+          "value": 0.02478884618636302
+        },
+        {
+          "slot": "V2-095",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "partial_ci95_low",
+          "value": -0.10504380620362916
+        },
+        {
+          "slot": "V2-096",
+          "context": {
+            "change_feature": "Story points",
+            "emotion_metric": "Stress",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "rho_partial_comment_count",
+          "value": -0.039733542732905934
+        }
+      ]
+    },
+    {
+      "id": "V4",
+      "paper_label": "fig:rq3_corr",
+      "cells": [
+        {
+          "slot": "V4-001",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "rho",
+          "value": 0.13852064529507283
+        },
+        {
+          "slot": "V4-002",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho",
+          "value": 0.1513596037688307
+        },
+        {
+          "slot": "V4-003",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "rho",
+          "value": 0.0310735452286527
+        },
+        {
+          "slot": "V4-004",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "rho",
+          "value": -0.08206121260372495
+        },
+        {
+          "slot": "V4-005",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "rho",
+          "value": -0.0894998798698842
+        },
+        {
+          "slot": "V4-006",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "rho",
+          "value": 0.23486629292389552
+        },
+        {
+          "slot": "V4-007",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.3597116449126963
+        },
+        {
+          "slot": "V4-008",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.09150493936123234
+        },
+        {
+          "slot": "V4-009",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": 0.37088367782349246
+        },
+        {
+          "slot": "V4-010",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.07853596109895714
+        },
+        {
+          "slot": "V4-011",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": 0.2533847900094691
+        },
+        {
+          "slot": "V4-012",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.19325256903745816
+        },
+        {
+          "slot": "V4-013",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.38178807138585885
+        },
+        {
+          "slot": "V4-014",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.1014853601506003
+        },
+        {
+          "slot": "V4-015",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": 0.39200323844041335
+        },
+        {
+          "slot": "V4-016",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.08459284974660067
+        },
+        {
+          "slot": "V4-017",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": 0.2646893067124736
+        },
+        {
+          "slot": "V4-018",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.2314539978829907
+        },
+        {
+          "slot": "V4-019",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.4162820131130212
+        },
+        {
+          "slot": "V4-020",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.1523962829429941
+        },
+        {
+          "slot": "V4-021",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": 0.42304570923759116
+        },
+        {
+          "slot": "V4-022",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.13746568854575403
+        },
+        {
+          "slot": "V4-023",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": 0.28364659957262156
+        },
+        {
+          "slot": "V4-024",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.26479552946373774
+        },
+        {
+          "slot": "V4-025",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.4164436116291632
+        },
+        {
+          "slot": "V4-026",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.18729767207916764
+        },
+        {
+          "slot": "V4-027",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": 0.4243301690702467
+        },
+        {
+          "slot": "V4-028",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.17012692480127853
+        },
+        {
+          "slot": "V4-029",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": 0.29204250078528987
+        },
+        {
+          "slot": "V4-030",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.26321456403397436
+        },
+        {
+          "slot": "V4-031",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.3992729687823208
+        },
+        {
+          "slot": "V4-032",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.21072458484644896
+        },
+        {
+          "slot": "V4-033",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": 0.4042656524158408
+        },
+        {
+          "slot": "V4-034",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.18877282845243376
+        },
+        {
+          "slot": "V4-035",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": 0.2916591984290602
+        },
+        {
+          "slot": "V4-036",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.2534386495518981
+        },
+        {
+          "slot": "V4-037",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.13810554065678168
+        },
+        {
+          "slot": "V4-038",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.3016392702747407
+        },
+        {
+          "slot": "V4-039",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": 0.12970835412562604
+        },
+        {
+          "slot": "V4-040",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.30770815315471883
+        },
+        {
+          "slot": "V4-041",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": 0.4282035957110632
+        },
+        {
+          "slot": "V4-042",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "iid",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": 0.027540301668269866
+        },
+        {
+          "slot": "V4-043",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.133971208755872
+        },
+        {
+          "slot": "V4-044",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.27535931271506286
+        },
+        {
+          "slot": "V4-045",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": 0.1273798655239896
+        },
+        {
+          "slot": "V4-046",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.28374923729261486
+        },
+        {
+          "slot": "V4-047",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": 0.45145613389018374
+        },
+        {
+          "slot": "V4-048",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_2",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": 0.03514483418802262
+        },
+        {
+          "slot": "V4-049",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.12787072872245006
+        },
+        {
+          "slot": "V4-050",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.2383059279839121
+        },
+        {
+          "slot": "V4-051",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": 0.1260937717206972
+        },
+        {
+          "slot": "V4-052",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.2441547918782012
+        },
+        {
+          "slot": "V4-053",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": 0.4530903293002503
+        },
+        {
+          "slot": "V4-054",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": 0.030547630716269807
+        },
+        {
+          "slot": "V4-055",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.11434569151623226
+        },
+        {
+          "slot": "V4-056",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.21792210177320925
+        },
+        {
+          "slot": "V4-057",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": 0.1109886534495034
+        },
+        {
+          "slot": "V4-058",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.22193734489301992
+        },
+        {
+          "slot": "V4-059",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": 0.45730210952263467
+        },
+        {
+          "slot": "V4-060",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_6",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.00934431487049666
+        },
+        {
+          "slot": "V4-061",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.10367481741426718
+        },
+        {
+          "slot": "V4-062",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.21044371482609678
+        },
+        {
+          "slot": "V4-063",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_high",
+          "value": 0.0948633395662015
+        },
+        {
+          "slot": "V4-064",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_matched",
+          "quantity": "ci95_low",
+          "value": -0.2149019480592234
+        },
+        {
+          "slot": "V4-065",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_high",
+          "value": 0.46110140430978575
+        },
+        {
+          "slot": "V4-066",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_8",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "independent_matched",
+          "quantity": "ci95_low",
+          "value": -0.023992999987341862
+        }
+      ]
+    },
+    {
+      "id": "rq1_screens",
+      "paper_label": "tab:rq1_group_tests",
+      "cells": [
+        {
+          "slot": "rq1_screens-001",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 1
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 7.992450388699133e-05
+        },
+        {
+          "slot": "rq1_screens-002",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.0001087052572291987
+        },
+        {
+          "slot": "rq1_screens-003",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.022058778431785997
+        },
+        {
+          "slot": "rq1_screens-004",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 1
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.019513904565260608
+        },
+        {
+          "slot": "rq1_screens-005",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.01869693061731846
+        },
+        {
+          "slot": "rq1_screens-006",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.4009879723068161
+        },
+        {
+          "slot": "rq1_screens-007",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 1
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.01622201581196111
+        },
+        {
+          "slot": "rq1_screens-008",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.015248637662234948
+        },
+        {
+          "slot": "rq1_screens-009",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.01703572006328627
+        },
+        {
+          "slot": "rq1_screens-010",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 3.6605128666552104e-28
+        },
+        {
+          "slot": "rq1_screens-011",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 2.8760452604236447e-29
+        },
+        {
+          "slot": "rq1_screens-012",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 3.411703016653488e-12
+        },
+        {
+          "slot": "rq1_screens-013",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 1.312953371580854e-06
+        },
+        {
+          "slot": "rq1_screens-014",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 9.488829988353514e-07
+        },
+        {
+          "slot": "rq1_screens-015",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 7.083528844672655e-09
+        },
+        {
+          "slot": "rq1_screens-016",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 10
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.004132441538421958
+        },
+        {
+          "slot": "rq1_screens-017",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 10
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.005274454462261689
+        },
+        {
+          "slot": "rq1_screens-018",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 10
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.0052696281291170245
+        },
+        {
+          "slot": "rq1_screens-019",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 10
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.20704204222357697
+        },
+        {
+          "slot": "rq1_screens-020",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 10
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.20428254162633958
+        },
+        {
+          "slot": "rq1_screens-021",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 10
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.09231545026418121
+        },
+        {
+          "slot": "rq1_screens-022",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 1
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.0036202361131616964
+        },
+        {
+          "slot": "rq1_screens-023",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.00648338220111428
+        },
+        {
+          "slot": "rq1_screens-024",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.4164863148287977
+        },
+        {
+          "slot": "rq1_screens-025",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 10
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.0004846199373479215
+        },
+        {
+          "slot": "rq1_screens-026",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 10
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.000319859766884205
+        },
+        {
+          "slot": "rq1_screens-027",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 10
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 1.1860339647164828e-08
+        },
+        {
+          "slot": "rq1_screens-028",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 10
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.19747100363232326
+        },
+        {
+          "slot": "rq1_screens-029",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 10
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.20428254162633958
+        },
+        {
+          "slot": "rq1_screens-030",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 10
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.030041877059965076
+        },
+        {
+          "slot": "rq1_screens-031",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 10
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.5769188884381196
+        },
+        {
+          "slot": "rq1_screens-032",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 10
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.7150691106016465
+        },
+        {
+          "slot": "rq1_screens-033",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 10
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.6398318643032279
+        },
+        {
+          "slot": "rq1_screens-034",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 10
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.004132441538421958
+        },
+        {
+          "slot": "rq1_screens-035",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 10
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.008129135768729857
+        },
+        {
+          "slot": "rq1_screens-036",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 10
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.29680126406533763
+        },
+        {
+          "slot": "rq1_screens-037",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 10
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 4.882337771230391e-38
+        },
+        {
+          "slot": "rq1_screens-038",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 10
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 7.095214515790674e-39
+        },
+        {
+          "slot": "rq1_screens-039",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 10
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 2.0951061893788027e-11
+        },
+        {
+          "slot": "rq1_screens-040",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 10
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 3.101892764904305e-15
+        },
+        {
+          "slot": "rq1_screens-041",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 10
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 3.1811709674904476e-16
+        },
+        {
+          "slot": "rq1_screens-042",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 10
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 5.698653120297677e-10
+        },
+        {
+          "slot": "rq1_screens-043",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 5
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.0001270437352890588
+        },
+        {
+          "slot": "rq1_screens-044",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 5
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.00012016979442628175
+        },
+        {
+          "slot": "rq1_screens-045",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 5
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.014630510831202426
+        },
+        {
+          "slot": "rq1_screens-046",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 5
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.02152997419330697
+        },
+        {
+          "slot": "rq1_screens-047",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 5
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.021460657617386452
+        },
+        {
+          "slot": "rq1_screens-048",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue links",
+            "threshold": 5
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.06427928490360314
+        },
+        {
+          "slot": "rq1_screens-049",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 5
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 1.6110918161692045e-09
+        },
+        {
+          "slot": "rq1_screens-050",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 5
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 6.749391617296662e-10
+        },
+        {
+          "slot": "rq1_screens-051",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 5
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 7.568584542122975e-15
+        },
+        {
+          "slot": "rq1_screens-052",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 5
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.17092651602607453
+        },
+        {
+          "slot": "rq1_screens-053",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 5
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.12727702020923873
+        },
+        {
+          "slot": "rq1_screens-054",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 5
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 6.291165123725753e-05
+        },
+        {
+          "slot": "rq1_screens-055",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 1
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 7.502779771576207e-07
+        },
+        {
+          "slot": "rq1_screens-056",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 4.1188996809393596e-07
+        },
+        {
+          "slot": "rq1_screens-057",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 1.8313157124102495e-26
+        },
+        {
+          "slot": "rq1_screens-058",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 5
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.10246309766399378
+        },
+        {
+          "slot": "rq1_screens-059",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 5
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.09603244482892638
+        },
+        {
+          "slot": "rq1_screens-060",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 5
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.7612809951608588
+        },
+        {
+          "slot": "rq1_screens-061",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 5
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.0009278417442439346
+        },
+        {
+          "slot": "rq1_screens-062",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 5
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.0010468603976399235
+        },
+        {
+          "slot": "rq1_screens-063",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Priority",
+            "threshold": 5
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.06427928490360314
+        },
+        {
+          "slot": "rq1_screens-064",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 5
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 1.6029038722972233e-61
+        },
+        {
+          "slot": "rq1_screens-065",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 5
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 8.285800270115449e-64
+        },
+        {
+          "slot": "rq1_screens-066",
+          "context": {
+            "emotion_metric": "Negative valence",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 5
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 1.7856656953110367e-21
+        },
+        {
+          "slot": "rq1_screens-067",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 5
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 1.631153087679704e-20
+        },
+        {
+          "slot": "rq1_screens-068",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 5
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 7.539758363452416e-22
+        },
+        {
+          "slot": "rq1_screens-069",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Version count",
+            "threshold": 5
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 2.126779646120869e-19
+        },
+        {
+          "slot": "rq1_screens-070",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 1
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_value",
+          "value": 0.00521493600924981
+        },
+        {
+          "slot": "rq1_screens-071",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 1
+          },
+          "arm": "DEVA_matched",
+          "quantity": "q_value",
+          "value": 0.00648338220111428
+        },
+        {
+          "slot": "rq1_screens-072",
+          "context": {
+            "emotion_metric": "Stress",
+            "model": "linear_adjusted",
+            "structural_factor": "Issue type",
+            "threshold": 1
+          },
+          "arm": "independent_matched",
+          "quantity": "q_value",
+          "value": 0.0006250367984700661
+        }
+      ]
+    },
+    {
+      "id": "measurement",
+      "paper_label": "tab:measurement",
+      "cells": [
+        {
+          "slot": "measurement-001",
+          "context": {
+            "metric": "accuracy",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "archived",
+          "quantity": "ci_high",
+          "value": 0.41246112176868527
+        },
+        {
+          "slot": "measurement-002",
+          "context": {
+            "metric": "accuracy",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "archived",
+          "quantity": "ci_low",
+          "value": 0.3094480420357688
+        },
+        {
+          "slot": "measurement-003",
+          "context": {
+            "metric": "accuracy",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "archived",
+          "quantity": "estimate",
+          "value": 0.3602612290922758
+        },
+        {
+          "slot": "measurement-004",
+          "context": {
+            "metric": "macro_f1",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "archived",
+          "quantity": "ci_high",
+          "value": 0.3711529547747468
+        },
+        {
+          "slot": "measurement-005",
+          "context": {
+            "metric": "macro_f1",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "archived",
+          "quantity": "ci_low",
+          "value": 0.27573737156266753
+        },
+        {
+          "slot": "measurement-006",
+          "context": {
+            "metric": "macro_f1",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "archived",
+          "quantity": "estimate",
+          "value": 0.3242241603661027
+        },
+        {
+          "slot": "measurement-007",
+          "context": {
+            "metric": "accuracy",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "independent",
+          "quantity": "ci_high",
+          "value": 0.319177247732892
+        },
+        {
+          "slot": "measurement-008",
+          "context": {
+            "metric": "accuracy",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "independent",
+          "quantity": "ci_low",
+          "value": 0.22610324757044473
+        },
+        {
+          "slot": "measurement-009",
+          "context": {
+            "metric": "accuracy",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "independent",
+          "quantity": "estimate",
+          "value": 0.27063835118712026
+        },
+        {
+          "slot": "measurement-010",
+          "context": {
+            "metric": "macro_f1",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "independent",
+          "quantity": "ci_high",
+          "value": 0.2441642881545857
+        },
+        {
+          "slot": "measurement-011",
+          "context": {
+            "metric": "macro_f1",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "independent",
+          "quantity": "ci_low",
+          "value": 0.160663838895921
+        },
+        {
+          "slot": "measurement-012",
+          "context": {
+            "metric": "macro_f1",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "independent",
+          "quantity": "estimate",
+          "value": 0.2025062331385424
+        }
+      ]
+    },
+    {
+      "id": "measurement_classes",
+      "paper_label": "tab:measurement_classes",
+      "cells": [
+        {
+          "slot": "measurement_classes-001",
+          "context": {
+            "metric": "f1:Neutral",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "archived",
+          "quantity": "estimate",
+          "value": 0.4487184084597393
+        },
+        {
+          "slot": "measurement_classes-003",
+          "context": {
+            "metric": "f1:Excited",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "archived",
+          "quantity": "estimate",
+          "value": 0.359729250180719
+        },
+        {
+          "slot": "measurement_classes-005",
+          "context": {
+            "metric": "f1:Stress",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "archived",
+          "quantity": "estimate",
+          "value": 0.38692339552490396
+        },
+        {
+          "slot": "measurement_classes-007",
+          "context": {
+            "metric": "f1:Depressed",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "archived",
+          "quantity": "estimate",
+          "value": 0.13799777530589546
+        },
+        {
+          "slot": "measurement_classes-009",
+          "context": {
+            "metric": "f1:Relax",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "archived",
+          "quantity": "estimate",
+          "value": 0.28775197235925587
+        },
+        {
+          "slot": "measurement_classes-011",
+          "context": {
+            "metric": "f1:Neutral",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "independent",
+          "quantity": "estimate",
+          "value": 0.38603158282327926
+        },
+        {
+          "slot": "measurement_classes-012",
+          "context": {
+            "metric": "f1:Excited",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "independent",
+          "quantity": "estimate",
+          "value": 0.29477805285278363
+        },
+        {
+          "slot": "measurement_classes-013",
+          "context": {
+            "metric": "f1:Stress",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "independent",
+          "quantity": "estimate",
+          "value": 0.07059560964780548
+        },
+        {
+          "slot": "measurement_classes-014",
+          "context": {
+            "metric": "f1:Depressed",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "independent",
+          "quantity": "estimate",
+          "value": 0.016808495674801322
+        },
+        {
+          "slot": "measurement_classes-015",
+          "context": {
+            "metric": "f1:Relax",
+            "reference": "expert",
+            "scope": "strict",
+            "domain": "all",
+            "domain_field": "Overall",
+            "support_flag": ""
+          },
+          "arm": "independent",
+          "quantity": "estimate",
+          "value": 0.2443174246940422
+        }
+      ]
+    },
+    {
+      "id": "supp_sprint_rank",
+      "paper_label": "tab:supp-sprint-rank-results",
+      "cells": [
+        {
+          "slot": "supp_sprint_rank-002",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_bh",
+          "value": 0.4291419440160362
+        },
+        {
+          "slot": "supp_sprint_rank-003",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "rho",
+          "value": 0.13852064529507283
+        },
+        {
+          "slot": "supp_sprint_rank-005",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_bh",
+          "value": 0.46360394662270554
+        },
+        {
+          "slot": "supp_sprint_rank-006",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "rho",
+          "value": -0.08206121260372495
+        },
+        {
+          "slot": "supp_sprint_rank-008",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "secondary",
+            "outcome": "Completed_Issues"
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_bh",
+          "value": 0.000710523657150034
+        },
+        {
+          "slot": "supp_sprint_rank-009",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "secondary",
+            "outcome": "Completed_Issues"
+          },
+          "arm": "DEVA_full",
+          "quantity": "rho",
+          "value": 0.38497485965388245
+        },
+        {
+          "slot": "supp_sprint_rank-011",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "secondary",
+            "outcome": "Completed_Issues"
+          },
+          "arm": "DEVA_full",
+          "quantity": "q_bh",
+          "value": 0.26882892615835313
+        },
+        {
+          "slot": "supp_sprint_rank-012",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "secondary",
+            "outcome": "Completed_Issues"
+          },
+          "arm": "DEVA_full",
+          "quantity": "rho",
+          "value": 0.12353924297510774
+        },
+        {
+          "slot": "supp_sprint_rank-013",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.4162820131130212
+        },
+        {
+          "slot": "supp_sprint_rank-014",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.1523962829429941
+        },
+        {
+          "slot": "supp_sprint_rank-015",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.12787072872245006
+        },
+        {
+          "slot": "supp_sprint_rank-016",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "primary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Velocity"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.2383059279839121
+        },
+        {
+          "slot": "supp_sprint_rank-017",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "secondary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Issues"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.5780545875011457
+        },
+        {
+          "slot": "supp_sprint_rank-018",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Relax",
+            "family": "secondary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Issues"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": 0.16268776977555038
+        },
+        {
+          "slot": "supp_sprint_rank-019",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "secondary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Issues"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.3830552307878637
+        },
+        {
+          "slot": "supp_sprint_rank-020",
+          "context": {
+            "aggregation": "comment_only_active_membership",
+            "emotion_metric": "Stress",
+            "family": "secondary",
+            "method": "moving_block_4",
+            "outcome": "Completed_Issues"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.0920072586696126
+        }
+      ]
+    },
+    {
+      "id": "supp_two_part",
+      "paper_label": "tab:supp-two-part",
+      "cells": [
+        {
+          "slot": "supp_two_part-001",
+          "context": {
+            "method": "moving_block_4",
+            "metric": "Relax",
+            "part": "positive_magnitude"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 2.060791009831124
+        },
+        {
+          "slot": "supp_two_part-002",
+          "context": {
+            "method": "moving_block_4",
+            "metric": "Relax",
+            "part": "positive_magnitude"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": 1.1356620723301003
+        },
+        {
+          "slot": "supp_two_part-003",
+          "context": {
+            "method": "moving_block_4",
+            "metric": "Stress",
+            "part": "positive_magnitude"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 1.3946310882128485
+        },
+        {
+          "slot": "supp_two_part-004",
+          "context": {
+            "method": "moving_block_4",
+            "metric": "Stress",
+            "part": "positive_magnitude"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": 0.582159324938265
+        },
+        {
+          "slot": "supp_two_part-006",
+          "context": {
+            "contrast_type": "average_probability_change_plus_1_sd",
+            "emotion_metric": "Relax",
+            "part": "occurrence"
+          },
+          "arm": "DEVA_full",
+          "quantity": "estimate",
+          "value": 0.04910136649700709
+        },
+        {
+          "slot": "supp_two_part-008",
+          "context": {
+            "contrast_type": "average_probability_change_plus_1_sd",
+            "emotion_metric": "Stress",
+            "part": "occurrence"
+          },
+          "arm": "DEVA_full",
+          "quantity": "estimate",
+          "value": -0.010797436275826106
+        },
+        {
+          "slot": "supp_two_part-010",
+          "context": {
+            "contrast_type": "positive_magnitude_ratio_plus_1_sd",
+            "emotion_metric": "Relax",
+            "part": "positive_magnitude"
+          },
+          "arm": "DEVA_full",
+          "quantity": "estimate",
+          "value": 1.482673583917524
+        },
+        {
+          "slot": "supp_two_part-012",
+          "context": {
+            "contrast_type": "positive_magnitude_ratio_plus_1_sd",
+            "emotion_metric": "Stress",
+            "part": "positive_magnitude"
+          },
+          "arm": "DEVA_full",
+          "quantity": "estimate",
+          "value": 0.8652975175432593
+        },
+        {
+          "slot": "supp_two_part-013",
+          "context": {
+            "method": "moving_block_4",
+            "metric": "Relax",
+            "part": "occurrence"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.16287741139444714
+        },
+        {
+          "slot": "supp_two_part-014",
+          "context": {
+            "method": "moving_block_4",
+            "metric": "Relax",
+            "part": "occurrence"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.02475305101527443
+        },
+        {
+          "slot": "supp_two_part-015",
+          "context": {
+            "method": "moving_block_4",
+            "metric": "Stress",
+            "part": "occurrence"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_high",
+          "value": 0.07704847182420806
+        },
+        {
+          "slot": "supp_two_part-016",
+          "context": {
+            "method": "moving_block_4",
+            "metric": "Stress",
+            "part": "occurrence"
+          },
+          "arm": "DEVA_full",
+          "quantity": "ci95_low",
+          "value": -0.0538681612973923
+        }
+      ]
+    }
+  ]
+}

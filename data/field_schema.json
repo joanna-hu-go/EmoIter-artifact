@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "payload_top_level_fields": [
+    "capability",
+    "objects",
+    "schema_version"
+  ],
+  "cell_fields": [
+    "arm",
+    "context",
+    "quantity",
+    "slot",
+    "value"
+  ],
+  "objects": [
+    {
+      "id": "V1",
+      "paper_label": "fig:rq1_versions",
+      "scalar_cells": 36,
+      "context_field_shapes": [
+        [
+          "earlier_level",
+          "emotion_metric",
+          "later_level",
+          "model",
+          "structural_factor",
+          "threshold"
+        ]
+      ],
+      "arms": [
+        "DEVA_matched",
+        "independent_matched"
+      ],
+      "quantities": [
+        "ci95_high",
+        "ci95_low",
+        "difference_later_minus_earlier"
+      ]
+    },
+    {
+      "id": "V2",
+      "paper_label": "fig:rq2_corr",
+      "scalar_cells": 96,
+      "context_field_shapes": [
+        [
+          "change_feature",
+          "emotion_metric",
+          "threshold"
+        ]
+      ],
+      "arms": [
+        "DEVA_matched",
+        "independent_matched"
+      ],
+      "quantities": [
+        "partial_ci95_high",
+        "partial_ci95_low",
+        "rho_partial_comment_count"
+      ]
+    },
+    {
+      "id": "V4",
+      "paper_label": "fig:rq3_corr",
+      "scalar_cells": 66,
+      "context_field_shapes": [
+        [
+          "aggregation",
+          "emotion_metric",
+          "family",
+          "method",
+          "outcome"
+        ],
+        [
+          "aggregation",
+          "emotion_metric",
+          "family",
+          "outcome"
+        ]
+      ],
+      "arms": [
+        "DEVA_full",
+        "DEVA_matched",
+        "independent_matched"
+      ],
+      "quantities": [
+        "ci95_high",
+        "ci95_low",
+        "rho"
+      ]
+    },
+    {
+      "id": "rq1_screens",
+      "paper_label": "tab:rq1_group_tests",
+      "scalar_cells": 72,
+      "context_field_shapes": [
+        [
+          "emotion_metric",
+          "model",
+          "structural_factor",
+          "threshold"
+        ]
+      ],
+      "arms": [
+        "DEVA_full",
+        "DEVA_matched",
+        "independent_matched"
+      ],
+      "quantities": [
+        "q_value"
+      ]
+    },
+    {
+      "id": "measurement",
+      "paper_label": "tab:measurement",
+      "scalar_cells": 12,
+      "context_field_shapes": [
+        [
+          "domain",
+          "domain_field",
+          "metric",
+          "reference",
+          "scope",
+          "support_flag"
+        ]
+      ],
+      "arms": [
+        "archived",
+        "independent"
+      ],
+      "quantities": [
+        "ci_high",
+        "ci_low",
+        "estimate"
+      ]
+    },
+    {
+      "id": "measurement_classes",
+      "paper_label": "tab:measurement_classes",
+      "scalar_cells": 10,
+      "context_field_shapes": [
+        [
+          "domain",
+          "domain_field",
+          "metric",
+          "reference",
+          "scope",
+          "support_flag"
+        ]
+      ],
+      "arms": [
+        "archived",
+        "independent"
+      ],
+      "quantities": [
+        "estimate"
+      ]
+    },
+    {
+      "id": "supp_sprint_rank",
+      "paper_label": "tab:supp-sprint-rank-results",
+      "scalar_cells": 16,
+      "context_field_shapes": [
+        [
+          "aggregation",
+          "emotion_metric",
+          "family",
+          "method",
+          "outcome"
+        ],
+        [
+          "aggregation",
+          "emotion_metric",
+          "family",
+          "outcome"
+        ]
+      ],
+      "arms": [
+        "DEVA_full"
+      ],
+      "quantities": [
+        "ci95_high",
+        "ci95_low",
+        "q_bh",
+        "rho"
+      ]
+    },
+    {
+      "id": "supp_two_part",
+      "paper_label": "tab:supp-two-part",
+      "scalar_cells": 12,
+      "context_field_shapes": [
+        [
+          "contrast_type",
+          "emotion_metric",
+          "part"
+        ],
+        [
+          "method",
+          "metric",
+          "part"
+        ]
+      ],
+      "arms": [
+        "DEVA_full"
+      ],
+      "quantities": [
+        "ci95_high",
+        "ci95_low",
+        "estimate"
+      ]
+    }
+  ],
+  "interpretation": {
+    "V1": "Values are proportion differences; multiply by 100 for plotted percentage-point differences.",
+    "V2": "Partial correlation coefficients and intervals on the rho scale.",
+    "V4": "Correlation coefficients and working sensitivity intervals; repeated point estimates are not independent results.",
+    "rq1_screens": "Adjusted q values; very small nonzero values must not be rendered as exact zero.",
+    "measurement": "Overall human-reference measurement estimates and intervals.",
+    "measurement_classes": "Class-specific human-reference measurement estimates.",
+    "supp_sprint_rank": "Selected sprint rank estimates and working intervals.",
+    "supp_two_part": "Selected two-part sprint estimates and working intervals."
+  }
+}

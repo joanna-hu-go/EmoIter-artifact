@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "objects": [
+    {
+      "id": "V1",
+      "paper_label": "fig:rq1_versions",
+      "scalar_cells": 36,
+      "kind": "figure",
+      "display_multiplier": 100,
+      "interval_meaning": "pointwise HC0 delta; not between-arm difference test"
+    },
+    {
+      "id": "V2",
+      "paper_label": "fig:rq2_corr",
+      "scalar_cells": 96,
+      "kind": "figure",
+      "display_multiplier": 1,
+      "interval_meaning": "pointwise paired issue-bootstrap; only archived volume adjusted"
+    },
+    {
+      "id": "V4",
+      "paper_label": "fig:rq3_corr",
+      "scalar_cells": 66,
+      "kind": "figure",
+      "display_multiplier": 1,
+      "interval_meaning": "working sensitivity; repeated points across schemes are not independent results"
+    },
+    {
+      "id": "rq1_screens",
+      "paper_label": "tab:rq1_group_tests",
+      "scalar_cells": 72,
+      "kind": "table",
+      "display_multiplier": 1,
+      "interval_meaning": null
+    },
+    {
+      "id": "measurement",
+      "paper_label": "tab:measurement",
+      "scalar_cells": 12,
+      "kind": "table",
+      "display_multiplier": 1,
+      "interval_meaning": null
+    },
+    {
+      "id": "measurement_classes",
+      "paper_label": "tab:measurement_classes",
+      "scalar_cells": 10,
+      "kind": "table",
+      "display_multiplier": 1,
+      "interval_meaning": null
+    },
+    {
+      "id": "supp_sprint_rank",
+      "paper_label": "tab:supp-sprint-rank-results",
+      "scalar_cells": 16,
+      "kind": "table",
+      "display_multiplier": 1,
+      "interval_meaning": null
+    },
+    {
+      "id": "supp_two_part",
+      "paper_label": "tab:supp-two-part",
+      "scalar_cells": 12,
+      "kind": "table",
+      "display_multiplier": 1,
+      "interval_meaning": null
+    }
+  ]
+}
